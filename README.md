@@ -11,11 +11,8 @@ The data is publicly available and was retrieved from the Ajuntament de Barcelon
 - Source: [Opendata Barcelona - Estadística Padró](https://opendata-ajuntament.barcelona.cat)
 
 ## Technologies Used
-- PyMongo 
+- `pymongo`, `pandas`, `matplotlib`, `numpy`, `folium` 
 - MongoDB 
-- Pandas 
-- Folium 
-- Matplotlib / NumPy
 
 ## Sample Visuals
 
